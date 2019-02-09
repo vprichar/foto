@@ -1,3 +1,26 @@
-a.collection-item {
-    background: pink !important;
+.con-uno {
+    background: #ffffff;
+    width: 43%;
+    float: right;
+}
+
+.con-dos {
+    background: #fec331;
+    width: 57%;
+    float: right;
+}
+
+
+.con-dos img {
+   width: 50px;
+}
+
+.base-img {
+    width: 12px !important;
+    margin-left: 26px;
+}
+
+.contenedor {
+    border: solid PINK 5PX;
+    height: 90px;
 }
